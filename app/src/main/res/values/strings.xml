@@ -6,7 +6,9 @@
     <string name="start">Bắt đầu</string>
     <string name="pause">Tạm dừng</string>
     <string name="reset">Đặt lại</string>
+    <string name="lap">Vòng</string>
     <string name="status_running">Trạng thái: đang chạy</string>
     <string name="status_paused">Trạng thái: tạm dừng</string>
     <string name="recreate_count">Số lần Activity được tạo lại: %1$d</string>
+    <string name="pause_on_bg">Dừng khi ra nền</string>
 </resources>
